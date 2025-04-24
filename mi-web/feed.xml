@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Beyond Horizons</title>
+        <link>https://laglera.github.io/beyondhorizons/</link>
+        <description>Paginas sobre una agencia de viajes diferentes</description>
+
+        <item>
+            <title>Inicio</title>
+            <link>https://laglera.github.io/beyondhorizons/</link>
+            <description>Pagina de inicio</description>
+        </item>
+        <item>
+            <title>Sobre Nosotros</title>
+            <link>https://laglera.github.io/beyondhorizons/about.html</link>
+            <description>Pagina que informa sobre la agencia</description>
+        </item>
+        <item>
+            <title>Servicios</title>
+            <link>https://laglera.github.io/beyondhorizons/services.html</link>
+            <description>Pagina que informa sobre los servicios y viajes que ofrece la empresa</description>
+        </item>
+        <item>
+            <title>Contacto</title>
+            <link>https://laglera.github.io/beyondhorizons/contact.html</link>
+            <description>Pagina que informa sobre las diferentes formas de contactar y contratar un viaje</description>
+        </item>
+        <item>
+            <title>Galeria</title>
+            <link>https://laglera.github.io/beyondhorizons/gallery.html</link>
+            <description>Pagina en la que se pueden ver fotos de los viajes</description>
+        </item>
+    </channel>
+</rss>

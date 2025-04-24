@@ -1,0 +1,1 @@
+Beyond Horizons es una página web creada para una agencia de viajes, diseñada para ayudar a los viajeros a explorar destinos impresionantes y planificar sus próximas aventuras. Esta página web está desarrollada utilizando HTML y CSS.
